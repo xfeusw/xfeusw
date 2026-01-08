@@ -15,7 +15,7 @@
 
 **[playground](https://github.com/xfeusw?tab=repositories)** – Experiments in Rust, Nix, TypeScript
 
-**[Telegram Channel](https://t.me/xfeusw)** – Philosophy, history, technology
+**[Telegram Channel](https://t.me/xfeusw)** – Notes
 
 ## Connect
 
