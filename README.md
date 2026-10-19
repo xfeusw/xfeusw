@@ -15,13 +15,8 @@
 
 **[playground](https://github.com/xfeusw?tab=repositories)** – Experiments in Rust, Nix, TypeScript
 
-**[Telegram Channel](https://t.me/xfeusw)** – Notes
-
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/xfeusw">GitHub</a> ·
-  <a href="https://t.me/xfeusw_db">Telegram</a> ·
-  <a href="https://instagram.com/xfeusw">Instagram</a> ·
   <a href="mailto:khamrakulovkamron@gmail.com">Email</a>
 </p>
