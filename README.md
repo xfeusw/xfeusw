@@ -13,7 +13,7 @@
 
 **[dotfiles](https://github.com/xfeusw/nix)** – NixOS & Home-Manager configuration
 
-**[playground](https://github.com/xfeusw?tab=repositories)** – Experiments in Rust, Nix, TypeScript
+**[playground](https://github.com/xfeusw?tab=repositories)** – Experiments in Rust, Haskell, Nix, TypeScript
 
 ## Connect
 
