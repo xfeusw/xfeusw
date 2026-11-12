@@ -19,5 +19,5 @@
 
 <p align="center">
   <a href="mailto:khamrakulovkamron@gmail.com" target="_blank">Email</a>
-  <a href="https://www.linkedin.com/in/xfeusw/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/xfeusw/" target="_blank"> - LinkedIn</a>
 </p>
