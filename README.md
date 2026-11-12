@@ -18,6 +18,6 @@
 ## Connect
 
 <p align="center">
-  <a href="mailto:khamrakulovkamron@gmail.com">Email</a>
-  <a href="https://linked.in/in/xfeusw">LinkedIn</a>
+  <a href="mailto:khamrakulovkamron@gmail.com" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/xfeusw/" target="_blank">LinkedIn</a>
 </p>
